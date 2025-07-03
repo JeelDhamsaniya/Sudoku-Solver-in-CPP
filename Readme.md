@@ -81,7 +81,7 @@ int main() {
 
 ## 📄 License
 
-This project is open-source under the MIT License.  
+This project is licensed under the [MIT License](./LICENSE).
 You are free to use, modify, and distribute this code with attribution.
 
 ---
