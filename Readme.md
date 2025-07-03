@@ -78,9 +78,6 @@ int main() {
 
 ---
 
-#### 5. 📄 **License + Attribution**
-
-```markdown
 ## 📄 License
 
 This project is open-source under the MIT License.  
@@ -90,6 +87,5 @@ You are free to use, modify, and distribute this code with attribution.
 
 ## 👨‍💻 Author
 
-Jeel Dhamsaniya
+**Jeel Dhamsaniya**  
 Header-only Sudoku solver for C++
-
