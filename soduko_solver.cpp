@@ -1,4 +1,5 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 #include "sudoku.hpp"
 
 using namespace std;

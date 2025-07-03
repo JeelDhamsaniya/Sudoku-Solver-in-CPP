@@ -42,6 +42,7 @@ This is a **header-only Sudoku solver** written in modern C++. It provides utili
 ```cpp
 
 #include <iostream>
+#include <vector>
 #include "sudoku.hpp"
 using namespace std;
 
